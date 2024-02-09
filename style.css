@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+    padding: 100px;
+    margin: -60px;
+}
+
+p {
+    color: black;
+    font-size: 16px;
+}
+
+button {
+    color: white;
+    background-color: #C51111;
+    border-radius: 3px;
+    border: none;
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+
+.pastel-logo {
+    height: 200px;
+}
+
+.logo2 {
+    height: 200px;
+    
+}
+
+.principal {
+
+    width: 50%;
+}
+.header {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin: 30px;
+    
+}
+
+.header img {
+    height: 30px;
+    margin: 30px;
+  
+ 
+}
+.header a {
+    color:black;
+    font-size: 20px;
+    cursor: pointer;
+}
+.link-whatsapp img {
+    width: 60px;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
